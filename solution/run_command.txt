@@ -1,1 +1,1 @@
-python3 solution/race_simulator.py
+python solution/race_simulator.py
